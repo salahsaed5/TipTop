@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TipTop/static/css/main.3041ecd7.css",
+    "main.js": "/TipTop/static/js/main.050818d3.js",
+    "static/media/shoe-removebg-preview.png": "/TipTop/static/media/shoe-removebg-preview.57e7c7dd8f3c84173477.png",
+    "static/media/man_dp1.jpg": "/TipTop/static/media/man_dp1.a623eee0ad5846417577.jpg",
+    "static/media/s.jpg": "/TipTop/static/media/s.f0fa8d2ef5b238a70524.jpg",
+    "static/media/girl_dp1.jpg": "/TipTop/static/media/girl_dp1.c1af503772290d92698d.jpg",
+    "static/media/man_dp3.jpg": "/TipTop/static/media/man_dp3.831c5b1420d293fe8a38.jpg",
+    "static/media/gir_dp2.jpg": "/TipTop/static/media/gir_dp2.103f6913d6532fb995d4.jpg",
+    "static/media/kid.jpg": "/TipTop/static/media/kid.b2a0fe87530cbc24fa00.jpg",
+    "static/media/logo.png": "/TipTop/static/media/logo.9cc51940fb282a4948f3.png",
+    "static/media/man4.jpg": "/TipTop/static/media/man4.16cfa6cab5c4058646a0.jpg",
+    "static/media/woman.jpg": "/TipTop/static/media/woman.a3e5c0b5ab9683fbae7b.jpg",
+    "static/media/man_dp2.jpg": "/TipTop/static/media/man_dp2.f43ddf3129ddc9305bbd.jpg",
+    "static/media/gir_dp3.jpg": "/TipTop/static/media/gir_dp3.39a027715e57a291978b.jpg",
+    "index.html": "/TipTop/index.html",
+    "main.3041ecd7.css.map": "/TipTop/static/css/main.3041ecd7.css.map",
+    "main.050818d3.js.map": "/TipTop/static/js/main.050818d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3041ecd7.css",
+    "static/js/main.050818d3.js"
+  ]
+}
